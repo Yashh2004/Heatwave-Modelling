@@ -19,7 +19,7 @@ Welcome to the Heatwave Modelling project! This repository simulates the health 
 ## 📂 Project Structure
 
 - `modelling2.ipynb` — Main notebook for simulation and visualization
-- `modelling1 (1).ipynb` — Alternative/extended modelling notebook
+- `modelling1.ipynb` — Alternative/extended modelling notebook
 - `hospitalization_linechart.png` — Line chart output
 - `intervention_metrics_barcharts.png` — Bar charts output
 - `heatmap_visualization.png` — Heatmap output
